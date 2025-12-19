@@ -21,7 +21,7 @@ async def main():
     bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 
     description = (
-        "📢 DeFi Developer Jobs – Rasmiy Reklama Menejeri!\n\n"
+        "📢 Developer Jobs – Rasmiy Reklama Menejeri!\n\n"
 
         "👋 Men DeFi Developer Jobs kanali reklama menejeriman!\n\n"
         "📌 Bot orqali faqat reklama mavzusida xabar yuboring.\n\n"
